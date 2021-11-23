@@ -231,4 +231,12 @@
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LAZR.png"
   }
+  {
+    "chainId": 1666600000,
+    "address": "0x18f6e8D0a04C26bAc46f0cC11Cc4D47b86A08994",
+    "symbol": "URUKHAI",
+    "name": "ISENGARD",
+    "decimals": 17,
+    "logoURI": "https://github.com/dfjsfj9455667/uruk455.git"
+  }
 ]
